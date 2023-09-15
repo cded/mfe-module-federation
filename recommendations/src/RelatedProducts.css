@@ -1,0 +1,13 @@
+.products {
+  background: lightblue;
+  color: white;
+  padding: 30px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.products p {
+  border-bottom: 1px solid #000;
+}
