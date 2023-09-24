@@ -1,0 +1,20 @@
+.options {
+  align-self: center;
+  display: flex;
+  grid-area: options;
+}
+
+.optionButton {
+  border: none;
+  border-bottom: 2px solid white;
+  cursor: pointer;
+  display: block;
+  margin: 2px;
+  outline: none;
+  padding: 0;
+}
+
+.optionButton img {
+  display: block;
+  max-width: 100%;
+}

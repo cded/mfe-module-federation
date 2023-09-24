@@ -33,6 +33,7 @@ module.exports = {
       filename: "remote.js",
       exposes: {
         "./Button": "./src/Button",
+        "./CartButton": "./src/Cart/Cart",
       },
       shared: {
         react: {
